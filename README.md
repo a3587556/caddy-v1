@@ -1,7 +1,8 @@
 # caddy-v1
 caddy v1
 参考 https://github.com/shuxs/caddy/blob/master/main.go
-  //Plugins
+
+        //Plugins
 
 	//DNS Providers
 	_ "github.com/caddyserver/dnsproviders/acmedns"
