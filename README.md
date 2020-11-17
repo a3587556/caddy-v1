@@ -98,3 +98,8 @@ caddy v1
 
 	// Event Hooks
 	_ "github.com/hacdias/caddy-service" //hook.service issus: panic: close of closed channel
+	
+	
+Build:
+    go get
+    go build -o caddy
